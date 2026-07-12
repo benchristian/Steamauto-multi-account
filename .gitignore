@@ -1,0 +1,25 @@
+# 账号数据目录（敏感信息）
+accounts/
+
+# session 数据
+session/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 日志
+*.log
+
+# 临时文件
+Steamauto_tmp/
