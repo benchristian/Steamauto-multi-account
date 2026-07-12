@@ -23,3 +23,6 @@ __pycache__/
 
 # 临时文件
 Steamauto_tmp/
+
+# 敏感数据文件
+steam账号.csv
