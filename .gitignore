@@ -26,3 +26,8 @@ Steamauto_tmp/
 
 # 敏感数据文件
 steam账号.csv
+
+# 涉及密码/密钥操作的脚本（不可公开）
+set_passwords.py
+import_mafile.py
+write_account_info.py
